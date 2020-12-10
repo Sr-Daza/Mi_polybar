@@ -1,6 +1,5 @@
 # Mi_polybar
 Mi configuracion de polybar
 
-![GitHub Logo](/home/daza/Imágenes/Mi_polybar.png)
-Format: ![Alt Text](url)
+![Polybar](https://github.com/Sr-Daza/Mi_polybar/blob/main/Mi_polybar.png)
  
